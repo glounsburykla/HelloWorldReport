@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="MIWIC">
+  <ConnectionProperties>
+    <Extension>ORACLE</Extension>
+    <ConnectString>Data Source="(DESCRIPTION=(ADDRESS_LIST=(ADDRESS=(PROTOCOL=TCP)(HOST = hcv491coreddc78-scan.state.mi.us)(PORT = 1521)))(CONNECT_DATA=(SERVICE_NAME = miwicd)))";Unicode=True</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>0872a118-cab9-49e1-9954-62980d13aa26</DataSourceID>
+</RptDataSource>

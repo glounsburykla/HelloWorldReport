@@ -53,8 +53,10 @@
   </ItemGroup>
   <ItemGroup>
     <DataSource Include="dsc1.rds" />
+    <DataSource Include="MIWIC.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="Appointment.rdl" />
     <Report Include="dataReport.rdl" />
     <Report Include="EmbeddedReport.rdl" />
     <Report Include="HelloWorld.rdl" />
